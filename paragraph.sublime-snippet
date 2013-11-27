@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\paragraph{${1:content}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>paragraph</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex.latex</scope>
+</snippet>

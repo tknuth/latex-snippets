@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\sum_{${1:k}=${2:1}}^${3:n}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sum</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex.latex</scope>
+</snippet>
