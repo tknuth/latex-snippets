@@ -13,7 +13,7 @@ chapter
 commenttitle
 ------------
 
-Inserts a headline in the comments
+Inserts a headline in the comments.
 
 emph
 ----
