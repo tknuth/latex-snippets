@@ -21,68 +21,55 @@ Inserts a headline in the comments.
 %%--------------------------------------------------------------------------
 ```
 
-emph
-----
+**emph**
 
 `\emph{$content}`
 
-footnote
---------
+**footnote**
 
 `\footnote{$content}`
 
-fraction
---------
+**fraction**
 
 `\frac{$numerator}{$denominator}`
 
-label
------
+**label**
 
 `\label{$name}`
 
-nthroot
--------
+**nthroot**
 
 `\sqrt[$n]{$radicand}`
 
-paragraph
----------
+**paragraph**
 
 `\paragraph{$content}`
 
-quotes
-------
+**quotes**
 
 `\glqq{}$content\grqq{}`
 
-section
--------
+**section**
 
 `\section{$content}`
 
-sqrt
-----
+**sqrt**
 
 `\sqrt{$radicand}`
 
-ssection
---------
+**ssection**
 
 `\subsection{$content}`
 
-sssection
----------
+**sssection**
 
 `\subsubsection{$content}`
 
-sum
----
+**sum**
 
 `\sum_{$k=$1}^$n`
 
-titlepage
----------
+**titlepage**
 
 ```
 \begin{titlepage}
