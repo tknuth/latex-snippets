@@ -1,13 +1,21 @@
-LaTeX Snippets for Sublime Text
-===============================
+LaTeX Snippets for Sublime
+==========================
+
+About the Package
+-----------------
 
 Feel free to add your own snippets and send a pull request.
 
 As LaTeX is, in Sublime's interpretation, rather text than code, one has to trigger auto-completion manually when typing. Alternatively, change the auto-completion mode in order to make the menu show when typing.
 
+Snippets
+--------
+
 **chapter**
 
-`\chapter{$content}`
+```
+\chapter{$content}
+```
 
 **commenttitle**
 
@@ -15,57 +23,81 @@ Inserts a headline in the comments.
 
 ```
 %%--------------------------------------------------------------------------
-%% ${1:TITLE}
+%% $title
 %%--------------------------------------------------------------------------
 ```
 
 **emph**
 
-`\emph{$content}`
+```
+\emph{$content}
+```
 
 **footnote**
 
-`\footnote{$content}`
+```
+\footnote{$content}
+```
 
 **fraction**
 
-`\frac{$numerator}{$denominator}`
+```
+\frac{$numerator}{$denominator}
+```
 
 **label**
 
-`\label{$name}`
+```
+\label{$name}
+```
 
 **nthroot**
 
-`\sqrt[$n]{$radicand}`
+```
+\sqrt[$n]{$radicand}
+```
 
 **paragraph**
 
-`\paragraph{$content}`
+```
+\paragraph{$content}
+```
 
 **quotes**
 
-`\glqq{}$content\grqq{}`
+```
+\glqq{}$content\grqq{}
+```
 
 **section**
 
-`\section{$content}`
+```
+\section{$content}
+```
 
 **sqrt**
 
-`\sqrt{$radicand}`
+```
+\sqrt{$radicand}
+```
 
 **ssection**
 
-`\subsection{$content}`
+```
+\subsection{$content}
+```
 
 **sssection**
 
-`\subsubsection{$content}`
+```
+\subsubsection{$content}
+```
 
 **sum**
 
-`\sum_{$k=$1}^$n`
+```
+\sum_{$k=$1}^$n
+```
 
 **titlepage**
 
