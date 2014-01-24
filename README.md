@@ -1,6 +1,11 @@
 LaTeX Snippets for Sublime
 ==========================
 
+More Information
+----------------
+
+Please find this readme and contact details at [tobiasknuth.de](http://www.tobiasknuth.de "http://www.tobiasknuth.de")
+
 About the Package
 -----------------
 
