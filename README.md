@@ -24,7 +24,7 @@ Snippets
 
 **commenttitle**
 
-Inserts a headline in the comments.
+Inserts a headline into the comments.
 
 ```
 %%--------------------------------------------------------------------------
