@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\emph{${1:content}}
+\emph{${0:$TM_SELECTED_TEXT}}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>emph</tabTrigger>
