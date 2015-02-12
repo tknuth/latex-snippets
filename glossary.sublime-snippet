@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\gls{${1:name}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippetlabel-->
+    <tabTrigger>gls</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex.latex</scope>
+</snippet>
