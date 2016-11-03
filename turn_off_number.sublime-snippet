@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${SELECTION/(?:(\\begin\{equation\})?)(?:(\\end\{equation\})?)/(?1:\\\[)(?2:\\\])/g}
+]]></content>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+	<description>Change the numbered equation to unnumbered equation</description>
+</snippet>
