@@ -8,10 +8,10 @@ Feel free to add your own snippets and send a pull request.
 
 As LaTeX is, in Sublime's interpretation, rather text than code, one has to trigger auto-completion manually when typing. Alternatively, change the auto-completion mode in order to make the menu show when typing.
 
-Additional Notes
-----------------
+Numbered/Unnumbered Equations
+-----------------------------
 
-For `turn_on_number.sublime-snippet` and `turn_off_number.sublime-snippet`, please note: Suppose you have written an unnumbered equation.
+Suppose you have written an unnumbered equation.
 
 ```
 \[
