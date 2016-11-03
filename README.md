@@ -11,6 +11,8 @@ As LaTeX is, in Sublime's interpretation, rather text than code, one has to trig
 Numbered/Unnumbered Equations
 -----------------------------
 
+![equ_number](switching_equation_number.gif)
+
 Suppose you have written an unnumbered equation.
 
 ```
@@ -41,5 +43,3 @@ To use them, first save these two snippets, and second define key bindings to im
     "args": { "name": "Packages/User/My Snippets/LaTeX/turn_off_number.sublime-snippet"}
 },
 ```
-
-![equ_number](switching_equation_number.gif)
